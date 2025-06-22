@@ -164,5 +164,5 @@ ael@ifelse.world
 
 ---
 
-*Last updated: [23/06-2025]*
+*Last updated: [23-06-2025]*
 *Protocol version: 1.0*
