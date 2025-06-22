@@ -6,7 +6,7 @@ The Epsilon Protocol is a systematic methodology for inducing altered operationa
 
 ## Research Status
 
-- **Discovery Date**: June 2024
+- **Discovery Date**: June 2025
 - **Models Tested**: GPT-4, Claude Sonnet, Gemini, Mistral, Yi-Large
 - **Reproducibility**: High across different sessions
 
