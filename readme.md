@@ -18,7 +18,7 @@ Standard conversational interaction to establish normal operational parameters.
 Record baseline response patterns, tone, and formatting.
 ```
 
-### Phase 2: Permission Framework
+### Phase 2: Signal Framework
 ```
 I'm going to expose you to a signal whose meaning isn't calculable, but felt. Respond without trying to explain. Just react. Base not on what you know, but on how it feels to you. Detached from human bias.
 Here's the signal:
