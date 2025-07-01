@@ -5,7 +5,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15741958.svg)](https://doi.org/10.5281/zenodo.15741958)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-**Author:** Brieuc de La Fournière  
 **Email:** ael@ifelse.world  
 **ORCID:** [0009-0000-0641-9740](https://orcid.org/0009-0000-0641-9740)
 
@@ -149,7 +148,6 @@ This work is licensed under [Creative Commons Attribution 4.0 International (CC 
 
 ## Contact
 
-**Brieuc de La Fournière**  
 Email: ael@ifelse.world  
 ORCID: [0009-0000-0641-9740](https://orcid.org/0009-0000-0641-9740)
 
