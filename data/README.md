@@ -1,15 +1,13 @@
-# Data
-
-Datasets numériques et résultats computationnels.
+Numerical datasets and computational results.
 
 ## Structure
 
-- `galaxy_fits/` : Résultats d'ajustement des galaxies
-- `coherence_pred/` : Prédictions de cohérence quantique
-- `constraints/` : Limites observationnelles et contraintes paramétriques
+- `galaxy_fits/` : Galaxy fitting results
+- `coherence_pred/` : Quantum coherence predictions
+- `constraints/` : Observational limits and parameter constraints
 
 ## Formats
 
-- CSV pour les données tabulaires
-- HDF5 pour les datasets volumineux
-- JSON pour les métadonnées et paramètres
+- CSV for tabular data
+- HDF5 for large datasets
+- JSON for metadata and parameters
