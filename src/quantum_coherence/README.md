@@ -1,9 +1,7 @@
-# Quantum Coherence
+# Quantum effects calculations in the 5D framework.
 
-Calculs des effets quantiques dans le framework 5D.
+## Expected Files
 
-## Fichiers attendus
-
-- `lifetime_enhancement.py` : Prédictions d'amélioration des temps de cohérence
-- `decoherence_modified.py` : Modèles de décohérence modifiée
-- `experimental_protocols.py` : Protocoles expérimentaux suggérés
+- `lifetime_enhancement.py` : Coherence time enhancement predictions
+- `decoherence_modified.py` : Modified decoherence models
+- `experimental_protocols.py` : Suggested experimental protocols
