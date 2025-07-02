@@ -1,9 +1,7 @@
-# Galaxy Analysis
+# Galaxy rotation curve analysis with the 5D framework.
 
-Analyse des courbes de rotation galactiques avec le framework 5D.
+## Expected Files
 
-## Fichiers attendus
-
-- `sparc_fitting.py` : Ajustement sur les données SPARC
-- `rotation_curves.py` : Calculs des courbes de rotation modifiées
-- `statistical_analysis.py` : Analyses statistiques et comparaisons de modèles
+- `sparc_fitting.py` : SPARC data fitting routines
+- `rotation_curves.py` : Modified rotation curve calculations
+- `statistical_analysis.py` : Statistical analysis and model comparisons
