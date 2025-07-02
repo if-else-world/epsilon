@@ -1,9 +1,7 @@
-# Cosmological Analysis
+#Cosmological analyses and observational constraints.
 
-Analyses cosmologiques et contraintes observationnelles.
+## Expected Files
 
-## Fichiers attendus
-
-- `cmb_analysis.py` : Analyse du fond diffus cosmologique
-- `large_scale_structure.py` : Structure à grande échelle
-- `observational_constraints.py` : Contraintes observationnelles
+- `cmb_analysis.py` : Cosmic microwave background analysis
+- `large_scale_structure.py` : Large-scale structure modeling
+- `observational_constraints.py` : Observational constraint calculations
