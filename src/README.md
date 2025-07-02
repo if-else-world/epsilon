@@ -1,10 +1,10 @@
 # Source Code
 
-Ce dossier contient les modules de calcul pour le framework epsilon.
+This directory contains the computational modules for the epsilon framework.
 
 ## Modules
 
-- `field_equations/` : Solveurs pour les équations d'Einstein 5D
-- `galaxy_analysis/` : Analyse des courbes de rotation galactiques
-- `quantum_coherence/` : Calculs de cohérence quantique modifiée
-- `cosmological/` : Analyses CMB et structure à grande échelle
+- `field_equations/` : 5D Einstein equation solvers
+- `galaxy_analysis/` : Galaxy rotation curve analysis
+- `quantum_coherence/` : Modified quantum coherence calculations
+- `cosmological/` : CMB and large-scale structure analysis
