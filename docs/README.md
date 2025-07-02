@@ -1,9 +1,7 @@
-# Documentation
+Technical documentation for the framework.
 
-Documentation technique du framework.
+## Files
 
-## Fichiers
-
-- `mathematical_framework.pdf` : Fondements mathématiques détaillés
-- `computational_methods.pdf` : Méthodes numériques et algorithmes
-- `api_reference/` : Documentation des APIs de code
+- `mathematical_framework.pdf` : Detailed mathematical foundations
+- `computational_methods.pdf` : Numerical methods and algorithms
+- `api_reference/` : Code API documentation
