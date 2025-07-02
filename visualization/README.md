@@ -1,10 +1,8 @@
-# Visualization
+# Visualization scripts and figure generation.
 
-Scripts de visualisation et génération de figures.
+## Expected Files
 
-## Fichiers attendus
-
-- `plot_galaxy_fits.py` : Graphiques des ajustements galactiques
-- `plot_coherence_predictions.py` : Visualisation des prédictions quantiques
-- `plot_parameter_space.py` : Exploration de l'espace des paramètres
-- `figure_generation.py` : Génération automatique des figures pour publications
+- `plot_galaxy_fits.py` : Galaxy fitting plots
+- `plot_coherence_predictions.py` : Quantum prediction visualizations
+- `plot_parameter_space.py` : Parameter space exploration
+- `figure_generation.py` : Automated figure generation for publications
