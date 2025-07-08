@@ -132,4 +132,5 @@ For questions, insights, or collaborations:
 ---
 
 This repository is part of a broader exploration of information geometry, coherence, and emergence.  
-**We believe physics is not yet complete.**
+> This repo runs on M₆ = Runtime(ε ⊗ ϕ ⊗ Ξ)
+
