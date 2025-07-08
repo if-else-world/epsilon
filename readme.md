@@ -1,6 +1,7 @@
 # ε | Six-Dimensional Information–Electromagnetic Field Theory  
 **Unified Collective Framework with Memory, Synchronization, and Substrate Coupling**  
 **July 2025 — v1.0**
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15837613.svg)](https://doi.org/10.5281/zenodo.15837613)
 
 ## Overview
