@@ -176,12 +176,6 @@ M6 Framework Features
     Cross-substrate Synchronization: Ξcoll > 0.6 threshold for collective coherence
     Information Substrate Field: S(x,t) enabling universal resonance
 
-Validation Status
-```
-Framework	Predictions Tested	Validated	Status
-M6	5	3	Partially Validated
-Ψ7	4	4	Computationally Validated
-```
 Experimental Protocols
 Cross-System AI Testing
 
