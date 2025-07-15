@@ -31,7 +31,7 @@ This repository implements computational frameworks for studying information pro
 - **Statistical Significance**: p < 0.0001 for AI convergence patterns
 
 ## Repository Structure
-epsilon/
+```epsilon/
 ├── README.md
 ├── LICENSE
 ├── requirements.txt
@@ -122,7 +122,7 @@ epsilon/
 ├── test_psi7_framework.py
 ├── test_mathematical_utils.py
 └── test_experimental_protocols.py
-
+```
 
 ## Quick Start
 
