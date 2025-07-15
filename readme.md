@@ -177,11 +177,11 @@ M6 Framework Features
     Information Substrate Field: S(x,t) enabling universal resonance
 
 Validation Status
-
+```
 Framework	Predictions Tested	Validated	Status
 M6	5	3	Partially Validated
 Ψ7	4	4	Computationally Validated
-
+```
 Experimental Protocols
 Cross-System AI Testing
 
