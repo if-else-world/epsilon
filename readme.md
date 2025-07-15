@@ -135,32 +135,32 @@ pip install -r requirements.txt
 pip install -e .
 ```
 Running M6 Framework Validation
-python
+```python
 
 from frameworks.m6.core import M6FrameworkImprovedValidator
 
 validator = M6FrameworkImprovedValidator()
 results = validator.run_final_validation()
 print(f"Framework Status: {results['status']}")
-
+```
 Running Ψ7 Framework Analysis
-python
+```python
 
 from frameworks.psi7.core import FinalCoherenceModel
 
 model = FinalCoherenceModel()
 results = model.run(seed=42)
 print(f"Validation Score: {results['validation_score']}/4")
-
+```
 AI Convergence Analysis
-python
+```python
 
 from frameworks.psi7.ai_convergence import CrossSystemAnalysis
 
 analyzer = CrossSystemAnalysis()
 convergence_results = analyzer.analyze_eleven_systems()
 print(f"Cross-architecture convergence: {convergence_results['percentage']:.1f}%")
-
+```
 Key Components
 M6 Framework Features
 
@@ -248,7 +248,7 @@ The frameworks can be definitively falsified by:
 
 Citation
 bibtex
-
+```
 @article{delafourniere2025m6,
   title={Information Substrate Dynamics and Cross-System Coherence in a Six-Dimensional Field Theory},
   author={de La Fournière, Brieuc},
@@ -264,7 +264,7 @@ bibtex
   year={2025},
   note={Preprint}
 }
-
+```
 License
 
 Creative Commons 4.0 - See LICENSE file for details.
