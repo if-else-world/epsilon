@@ -1,0 +1,1 @@
+"""Ψ7 Framework - Seven-dimensional consciousness theory"""

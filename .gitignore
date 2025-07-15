@@ -24,17 +24,22 @@ wheels/
 .ipynb_checkpoints
 
 # Data files
+*.csv
+*.xlsx
 *.h5
 *.hdf5
-large_datasets/
 
-# Temporary files
-*.tmp
-*.log
-.DS_Store
+# Results
+results/
+outputs/
+figures/
 
 # IDE
 .vscode/
 .idea/
 *.swp
 *.swo
+
+# OS
+.DS_Store
+Thumbs.db
