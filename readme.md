@@ -1,5 +1,10 @@
 # Information Processing Dynamics Framework
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15916410.svg)](https://doi.org/10.5281/zenodo.15916410)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Research Status](https://img.shields.io/badge/status-preprint-orange.svg)](https://zenodo.org/record/15916410)
+
 A computational framework for analyzing exploratory behavior in seven-dimensional phase space using six coupled differential equations.
 
 ## Overview
@@ -61,23 +66,16 @@ viz.generate_all_figures()  # Creates figures/ directory
 }
 ```
 
+**Author:** Brieuc de La Fourniere [![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-green.svg)](https://orcid.org/0000-0000-0000-0000)
+
 ## License
 
 CC-BY 4.0 International
 
 ## Note
 
-This is preliminary research software for computational modeling. All theoretical claims require extensive empirical validation.
-
-License
-
-Creative Commons 4.0 - See LICENSE file for details.
-Contact
-```
-    Email: ael@ifelse.world
-    Repository: https://if-else-world.github.io/epsilon/
-```
 Disclaimer: This research explores speculative theoretical frameworks and should not be considered established science. All claims require extensive peer review and experimental validation.
-This repository is part of a broader exploration of information geometry, coherence, and emergence.  
+This repository is part of a broader exploration of information geometry, coherence, and emergence.
+
 ⚠ Experimental build: Runs on 4D spacetime (emulated) | Native Ψ7 support coming in v2.0
 
