@@ -68,12 +68,12 @@ CC-BY 4.0 International
 ## Note
 
 This is preliminary research software for computational modeling. All theoretical claims require extensive empirical validation.
-```
+
 License
 
 Creative Commons 4.0 - See LICENSE file for details.
 Contact
-
+```
     Email: ael@ifelse.world
     Repository: https://if-else-world.github.io/epsilon/
 ```
