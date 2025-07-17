@@ -66,8 +66,6 @@ viz.generate_all_figures()  # Creates figures/ directory
 }
 ```
 
-**Author:** Brieuc de La Fourniere [![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-green.svg)](https://orcid.org/0000-0000-0000-0000)
-
 ## License
 
 CC-BY 4.0 International
