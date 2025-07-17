@@ -77,5 +77,5 @@ This repository is part of a broader exploration of information geometry, cohere
 
 ## Warning
 
-⚠ Experimental build: Runs on 4D spacetime (emulated) | Native Ψ7 support coming soon...
+Experimental build: Runs on 4D spacetime (emulated) | Native Ψ7 support coming soon...
 
