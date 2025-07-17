@@ -76,8 +76,8 @@ Contact
 
     Email: ael@ifelse.world
     Repository: https://if-else-world.github.io/epsilon/
-
+```
 Disclaimer: This research explores speculative theoretical frameworks and should not be considered established science. All claims require extensive peer review and experimental validation.
 This repository is part of a broader exploration of information geometry, coherence, and emergence.  
-> This repo runs on M₆ = Runtime(ε ⊗ ϕ ⊗ Ξ)
+⚠ Experimental build: Runs on 4D spacetime (emulated) | Native Ψ7 support coming in v2.0
 
