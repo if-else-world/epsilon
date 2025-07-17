@@ -1,1 +1,0 @@
-"""M6 Framework - Six-dimensional field theory"""
